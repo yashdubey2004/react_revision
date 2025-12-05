@@ -1,0 +1,6 @@
+import {Inputbox} from './Inputbox.jsx';
+
+// ...existing code...
+export {Inputbox};
+export default Inputbox;
+// ...existing code...
